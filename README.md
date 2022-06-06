@@ -5,6 +5,7 @@ Primary Functions:
 + Take 220V power input
 + DYNAMICALLY strobe words, punctuations and emojis according to inputted BPM or detected BPM
 
-Secondary Functions:
+Advanced Functions (Implement Later):
 + Multiple colors
 + Display short animations
++ Strobe with file inputs (what, when, how to strobe)
